@@ -665,6 +665,12 @@ footer div {
   background: #34b823;
 }
 
+@media screen and (min-width: 2000px) {
+  body {
+    zoom: 2;
+  }
+}
+
 @media screen and (min-width: 1500px) {
   body {
     zoom: 1.4;
