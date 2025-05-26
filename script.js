@@ -13,6 +13,13 @@ function removeActive() {
   });
 }
 
+
+
+
+
+
+
+
 // whenever any of the nav links is clicked, the nav lists is removed
 
 navLinks.forEach((links) => {
